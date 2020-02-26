@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fcddda39-cd39-47ad-aced-63b07fbc3421" name="Default Changelist" comment="springboot微服务项目IDEA整合GitHub测试">
+    <list default="true" id="fcddda39-cd39-47ad-aced-63b07fbc3421" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/com/App/ItemApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/com/ItemApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ItemApp.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,7 +122,7 @@
       <option name="presentableId" value="Default" />
       <updated>1582602174510</updated>
       <workItem from="1582602177114" duration="15288000" />
-      <workItem from="1582682209547" duration="8118000" />
+      <workItem from="1582682209547" duration="8558000" />
     </task>
     <task id="LOCAL-00001" summary="springboot微服务项目IDEA整合GitHub测试">
       <created>1582692228147</created>
@@ -133,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582692228147</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="404问题测试">
+      <created>1582693775495</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1582693775495</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,7 +146,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="springboot微服务项目IDEA整合GitHub测试" />
-    <option name="LAST_COMMIT_MESSAGE" value="springboot微服务项目IDEA整合GitHub测试" />
+    <MESSAGE value="404问题测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="404问题测试" />
   </component>
   <component name="WindowStateProjectService">
     <state x="383" y="197" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582692679865">
@@ -188,10 +194,10 @@
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
     <state x="644" y="247" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1582688032526" />
-    <state x="485" y="135" key="CommitChangelistDialog2" timestamp="1582693237174">
+    <state x="485" y="135" key="CommitChangelistDialog2" timestamp="1582693773930">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state x="485" y="135" key="CommitChangelistDialog2/0.0.1858.1080@0.0.1858.1080" timestamp="1582693237174" />
+    <state x="485" y="135" key="CommitChangelistDialog2/0.0.1858.1080@0.0.1858.1080" timestamp="1582693773930" />
     <state x="709" y="297" key="FileChooserDialogImpl" timestamp="1582692564900">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
