@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="microservice-item:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/microservice_item_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="microservice-item/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="microservice-item" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
