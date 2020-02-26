@@ -1,4 +1,4 @@
-package org.com.App;
+package org.com;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -12,7 +12,6 @@ import org.springframework.context.annotation.ComponentScan;
  * @Description:
  * */
 @SpringBootApplication
-@ComponentScan(basePackages = {"org.com.Controller","org.com.service"})
 public class ItemApp {
     public static void main(String[] args){
         SpringApplication.run(ItemApp.class,args);
